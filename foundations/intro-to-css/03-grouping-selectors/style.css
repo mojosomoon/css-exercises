@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.element {
+    background-color: black;
+    color: white;
+}
+.ele {
+    background-color: yellow;
+}
+.element, .ele {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
