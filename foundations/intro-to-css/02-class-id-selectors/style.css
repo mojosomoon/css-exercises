@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+p.odd {
+background-color: lightpink;
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#deux {
+    font-size: 36px;
+    color: blue;
+}
+
+.quatre {
+font-size: 24px;
+background-color: lightgreen;
+font-weight: bold;
+}
+#quatre {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+#trois {
+     font-size: 24px;
+}
